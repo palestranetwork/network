@@ -31,4 +31,4 @@
 - Palestra Bureau speaker series (Talk 4)
 
 
-_Roadmap is tentative and is a correct as possible estimate of future activities._
+_Roadmap is tentative and is an ~accurate estimate of future activities._
