@@ -1,4 +1,4 @@
-****2024 Roadmap:**
+**2024 Roadmap:**
 
 **January:**
 - Announce safe contract and El Salvador regulation changes detail: https://www.palestrasociety.com/journal/startup-country
@@ -12,7 +12,7 @@
 
 **March:**
 - Age of Light: 16 March
-- Palestra Talk at National Library (Jake Hamilton, Gustavo Lessak, Bryan Johnson): 17 March 
+- Palestra Talk at National Library (Brian Johnson, Jake Hamilton, Gustavo Lessak): 17 March 
 - “Favela Fest”: 18 - 25 March
 
 **April:**
