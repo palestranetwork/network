@@ -1,7 +1,7 @@
 **2024 Roadmap:**
 
 **January:**
-- Announce safe contract and El Salvador regulation changes detail: https://www.palestrasociety.com/journal/startup-country
+- Announce safe contract and El Salvador regulation changes detail
 - Announce Age of Light summit
 - Open ticketing for Age of Light summit
 - Announce HQ tokenization and open ticketing for “Favela Fest” event
