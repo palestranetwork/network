@@ -18,17 +18,10 @@
 **April:**
 - Establish charter, creation of Palestra, El Salvador jurisdiction
 
-**May:**
-- Palestra Bureau speaker series (Talk 1)
-
-**June:**
-- Palestra Bureau speaker series (Talk 2)
-
 **July:**
-- Palestra Bureau speaker series (Talk 3)
-
-**August:**
-- Palestra Bureau speaker series (Talk 4)
-
+- Palestra Bureau speaker series (Episode 1)
+- Palestra Bureau speaker series (Episode 2)
+- Palestra Bureau speaker series (Episode 3)
+- Palestra Bureau speaker series (Episode 4)
 
 _Roadmap is tentative and is an ~accurate estimate of future activities._
