@@ -9,7 +9,7 @@ assignees: ''
 
 **Title of Policy:**
 
-**Background for Proposal** [Explain background and reason for policy proposal.  Indicate whether the policy proposed is new or a change to existing policy.  Explain reason for 
+**Background for Proposal** [Explain background and reason for policy proposal.  Indicate whether the policy proposed is new or a change to existing policy.]
 
 **Summary of Proposal**: [Summarize the policy and outline the procedures required for implementation.]
 
